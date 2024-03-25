@@ -15,5 +15,5 @@ This repository is based on my final bachelor's degree thesis. On the folder **/
  - Thesis report, which provides a brief introduction on RBMs, including a theoretical background on this type of Artificial Neural Networks.
  - Some comparative results obtained by replicating the plots in the aforementioned research paper.
 
-The folder **/codes** has two Jupyter Notebooks, one for each implementation of the Supervised RBMs, that are named after their model (e.g. *SRBM.ipynb*).
+The folder **/Final Codes** has two Jupyter Notebooks, one for each implementation of the Supervised RBMs, that are named after their model (e.g. *SRBM.ipynb*).
 It also contains the codes used to generate the figures in **/documentation**, however, these are meant to be used with a cluster since the computations are rather slow.
